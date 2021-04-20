@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(170, 223, 170)
+}
+
+#frontimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.myDiv{
+    text-align: center;
+    color: maroon;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+h3{
+text-align: center;
+color: maroon;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    background-color: rgb(120, 197, 120);
+}
+
+.flex-container > div{
+    margin: 10px;
+    padding: 20px;
+ color: maroon;
+
+}
+
+
+table, th, td{
+
+    color:maroon;
+    border: 3px solid rgb(68, 1, 12);
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+iframe{
+    
+    width: 1000px;
+    height: 400px;
+    text-align: center;
+}
+
+
+#form{
+text-align: center;
+font-size: xx-large;
+}
